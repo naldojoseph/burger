@@ -6,4 +6,4 @@ INSERT INTO burgers (burger_name) VALUES ("Classic Dick's Burger");
 INSERT INTO burgers (burger_name) VALUES ("Soutwestern Burger"); 
 INSERT INTO burgers (burger_name) VALUES ("Louisiana Crispy Chicken Burger"); 
 INSERT INTO burgers (burger_name) VALUES ("Teriyaki Burger"); 
-INSERT INTO burgers (burger_name) VALUES ("Porky Pork Burger");
+INSERT INTO burgers (burger_name) VALUES ("Porky Burger");

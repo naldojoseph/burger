@@ -60,7 +60,6 @@ var orm = {
         second = '0' + second;
       }
     timestamp += second;
-    // ----------------------------------------------------------
 
     // Run MySQL Query
     connection.query('INSERT INTO burgers SET ?', {
